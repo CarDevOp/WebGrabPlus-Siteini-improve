@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="tvinfo.de">
+  <channels>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/ard" xmltv_id="Das Erste">Das Erste</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/zdf" xmltv_id="ZDF">ZDF</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/rtl" xmltv_id="RTL Television">RTL Television</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/sat1" xmltv_id="SAT.1">SAT.1</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/pro7" xmltv_id="ProSieben">ProSieben</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/vox" xmltv_id="VOX">VOX</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/kabel1" xmltv_id="kabel eins">kabel eins</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/rtl2" xmltv_id="RTL2">RTL2</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/3sat" xmltv_id="3sat">3sat</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/arte" xmltv_id="arte">arte</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/servustv" xmltv_id="Servus TV">Servus TV</channel> <!--neuer Sender-->
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/wdr" xmltv_id="WDR Köln">WDR Köln</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/hr" xmltv_id="hr-fernsehen">hr-fernsehen</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/br" xmltv_id="BR Fernsehen Süd">BR Fernsehen Süd</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/mdr" xmltv_id="MDR Thüringen">MDR Thüringen</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/ndr" xmltv_id="NDR FS MV">NDR FS MV</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/rbb" xmltv_id="rbb Brandenburg">rbb Brandenburg</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/swr" xmltv_id="SWR Fernsehen BW">SWR Fernsehen BW</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/dmax" xmltv_id="DMAX">DMAX</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/zdfinfokanal" xmltv_id="ZDFinfo">ZDFinfo</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/tlc" xmltv_id="TLC">TLC</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/kabel1-doku" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/n24" xmltv_id="N24 Doku">N24 Doku</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/ard-alpha" xmltv_id="ARD-alpha">ARD-alpha</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/welt-der-wunder" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/srtl" xmltv_id="Super RTL">Super RTL</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/ki.ka" xmltv_id="KiKa">KiKa</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/nicktoons" xmltv_id="Nickelodeon/Nicknight">Nickelodeon/Nicknight</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/zdfneo" xmltv_id="zdf_neo">,zdf_neo</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/rtl-nitro" xmltv_id="Nitro">Nitro</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/sat1gold" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/tele-5" xmltv_id="Tele 5">Tele 5</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/disney-channel" xmltv_id="Disney SD">Disney SD</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/sixx" xmltv_id="SIXX">SIXX</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/pro7-maxx" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/one" xmltv_id="ONE">ONE</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/sport1" xmltv_id="SPORT1">SPORT1</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/eurosport" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/phoenix" xmltv_id="PHOENIX">PHOENIX</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/n-tv" xmltv_id="ntv">ntv</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/ard" xmltv_id="Das Erste HD">Das Erste HD</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/zdf" xmltv_id="ZDF HD">ZDF HD</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/3sat" xmltv_id="3Sat HD">3Sat HD</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/servustv" xmltv_id="ServusTV HD">ServusTV HD</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/wdr" xmltv_id="WDR Köln HD">WDR Köln HD</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/br" xmltv_id="BR Fernsehen Süd HD">BR Fernsehen Süd HD</channel>
+  <channel update="i" site="tvinfo.de" site_id="/tv-programm/swr" xmltv_id="SWR BW HD">SWR BW HD</channel>
+  </channels>
+</site>
